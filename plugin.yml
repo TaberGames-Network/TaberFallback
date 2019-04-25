@@ -1,0 +1,9 @@
+name: taberFallback
+main: com.samtaber.main.Main
+author: Sam Taber
+version: 1.0
+description: Fallback Manager.
+
+commands:
+    freeze:
+        description: freeze the player.
