@@ -7,3 +7,6 @@ description: Fallback Manager.
 commands:
     freeze:
         description: freeze the player.
+    vanish:
+        aliases: [v]
+        description: freeze the player.

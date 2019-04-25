@@ -1,6 +1,5 @@
 package com.samtaber.commands;
 
-import java.util.ArrayList;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
