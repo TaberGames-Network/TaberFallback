@@ -1,4 +1,2 @@
 # taberFallback
-Custom fallback plugin.
-
-(This plugin is complete for version 1.8)
+Custom fallback plugin. Designed for taberGames. Now defunct.
